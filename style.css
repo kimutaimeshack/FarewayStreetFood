@@ -1,0 +1,26 @@
+
+
+.container{
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   right: 0;
+   left: 0;
+}
+
+
+nav {
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 0.1% 0;
+   margin-right: 0%;
+}
+
+body{
+  font-size: 1.3em ;
+  font-family: sans-serif;
+}
+
+nav>ul{
+  text-align: right;
+}
