@@ -12,6 +12,12 @@ body{
   padding: 60PX;
   Background-Color: #e1e3e1 ;
 }
+.exploremenu{
+  width: 100%;
+  height: 100%;
+  padding: 60PX;
+
+}
 
 nav {
    margin: 0 auto;
