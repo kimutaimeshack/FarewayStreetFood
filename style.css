@@ -13,17 +13,28 @@ body{
   Background-Color: #e1e3e1 ;
 }
 
+/* eattogether style */
+
 .eattogether{
 width: 100%;
 height: 100%;
 padding: 60PX;
 }
+.second1{
+  padding: 15px;
+  height: 400px;
+  width: 620px;
+  box-sizing: border-box;
 
-.hotdeal{
-width: 100%;
-height: 100%;
-padding: 60PX;
 }
+#one{
+  float: left;
+  height: 200 px;
+  width: 300px;
+  margin: 0 10px 0 0;
+  }
+
+
 
 
 .exploremenu{
@@ -61,6 +72,27 @@ text-align: center;
   margin: 0 0px 0 0;
   }
 
+/* hot deal styling */
+
+  .hotdeal{
+  width: 100%;
+  height: 100%;
+  padding: 60PX;
+  }
+
+  .second2{
+    padding: 15px;
+    height: 400px;
+    width: 620px;
+    box-sizing: border-box;
+
+  }
+  #two2{
+    float: left;
+    height: 200 px;
+    width: 300px;
+    margin: 0 10px 0 0;
+    }
 
 
 
