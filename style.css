@@ -1,14 +1,15 @@
 
-body,html {
-font-family:Poppins;
-text-color:EAAB1B
-}
+body{
+  overflow: scroll;
+  width: 65%;
+  font-family:Poppins;
+  text-color:#EAAB1B;
+  }
 
 .container{
-  width: 100%;
-  height: 100%;
+  width: 69%;
+  height: 69%;
   padding: 60PX;
-  position: absolute;
   Background-Color: #e1e3e1 ;
 }
 
@@ -88,54 +89,3 @@ a:hover {
 a:active {
   color: white;
 }
-
-
-
-
-#one{
-  float: left;
-  height: 200 px;
-  width: 300px;
-  margin: 0 10px 0 0;
-  }
-
-
-
-
-  site-main .about-area .about-title p{
-      padding: 1rem 7rem;
-  }
-
-  .site-main .about-area .client{
-      background: #ffffff10;
-      box-shadow: var(--box-shadow);
-      margin: 3rem 0rem;
-  }
-
-  .site-main .about-area .client .client-img{
-      padding: 2rem;
-  }
-
-  .site-main .about-area .client .about-client{
-      padding-top: 2rem;
-  }
-
-  .site-main .about-area .client .about-client h4{
-      font: normal 500 21px/ 20px var(--roboto);
-  }
-
-  .site-main .about-area .client .about-client p{
-      font-size: 14px;
-  }
-
-  .site-main .about-area .owl-carousel .owl-item{
-      display: flex;
-      justify-content: center;
-      padding: 0 1.5rem;
-  }
-
-  .site-main .about-area .owl-carousel .owl-dots .owl-dot.active span{
-      background: var(--primary-color);
-      width: 12px;
-      height: 12px;
-  }
