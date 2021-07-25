@@ -9,6 +9,7 @@ text-color:EAAB1B
   height: 100%;
   padding: 60PX;
   position: absolute;
+  Background-Color: #e1e3e1 ;
 }
 
 nav {
@@ -23,6 +24,23 @@ nav {
   width: 285px;
   box-sizing: content-box;
 }
+
+.button1 {
+  background-color: #6CB840;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px 25px;
+  width: 180px;
+}
+
+
 
 
 .eatingtogether{
