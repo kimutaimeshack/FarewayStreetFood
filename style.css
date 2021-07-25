@@ -43,52 +43,23 @@ padding: 60PX;
  align-items: right;
 }
 
-#ho1{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
+.ho1, .ho2, .ho3, .ho4, .ho5, .ho6,{
+  box-sizing: border-box;
+  background-color: white;
+  height: 70px;
+  width: 70px;
+  padding: 5px;
+  float: right;
+}
+#tw2{
+  box-sizing: border-box;
+  background-color: red;
+  float: left;
+  height: 30 px;
+  width: 30px;
+  margin: 0 0px 0 0;
+  }
 
-}
-#ho2{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
-
-}
-#ho3{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
-}
-
- #ho4{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
-}
- #ho5{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
-}
-
-#ho6{
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 100px;
-  text-align: center;
-}
 
 
 
@@ -98,12 +69,7 @@ height: 100%;
 padding: 60PX;
 }
 
-#one{
-  float: left;
-  height: 200 px;
-  width: 300px;
-  margin: 0 10px 0 0;
-  }
+
 
 
 
@@ -166,8 +132,14 @@ nav {
   height: 400px;
   width: 620px;
   box-sizing: border-box;
-  display: flex;
+
 }
+#one{
+  float: left;
+  height: 200 px;
+  width: 300px;
+  margin: 0 10px 0 0;
+  }
 
 span{
   color: #EAAB1B;
@@ -189,9 +161,6 @@ span{
   border-radius: 30px 30px;
   width: 110px;
 }
-
-
-
 
 
 
