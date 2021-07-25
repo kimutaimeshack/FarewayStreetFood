@@ -1,4 +1,8 @@
 
+body,html {
+font-family:Poppins;
+text-color:EAAB1B
+}
 
 .container{
   width: 100%;
@@ -13,10 +17,14 @@ nav {
    margin-right: 0%;
 }
 
-body,html {
-font-family:Poppins;
-text-color:EAAB1B
+.first{
+  padding: 15px;
+  height: 300px;
+  width: 285px;
+  box-sizing: content-box;
 }
+
+
 .eatingtogether{
   height: 100% ;
   width: 100%;
