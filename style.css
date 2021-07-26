@@ -110,15 +110,14 @@ flex-grow: 2;
 margin-right: 10%;
 background-color: #C9ECB5
 }
-#tw2{
-  box-sizing: border-box;
-  background-color: yellow;
-  float: left;
-  height: 30 px;
-  width: 100%
-  margin: 0 10px 0 0;
-
-  }
+  #tw2{
+    box-sizing: border-box;
+    background-color: red;
+    float: left;
+    height: 30 px;
+    width: 30px;
+    margin: 0 0px 0 0;
+    }
 
 
 

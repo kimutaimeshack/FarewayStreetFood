@@ -1,13 +1,11 @@
-PROJECT NAME: Photographic site
+PROJECT NAME: StreetFood site
 
 AUTHOR      : meshack kimutai
 
 
 PROJECT Description
 
-This web project was created using basically html and css.
-The project is all about the photographic. This project have the photos of nature,people, animals, landscape and the favorite songs.
-
+This web project was created using basically html and css.  The project is a bout the StreetFood website. It has the following parts which are Home ,About the site, Menu, Street Food , Catering,  Reservation,  Gallery and Contact. Here is the live link of the project:
 THE PROJECT SCREENSHOOT :
 
 
@@ -21,3 +19,10 @@ PROJECT SETUP INSTRUCTIONS
 LINK TO GITHUB PAGES :-
 
 https://kimutaimeshack.github.io/FarewayStreetFood/
+
+
+COPYRIGHTS AND LICENSE INFORMATION
+
+Copyright (c) 2021 meshack kimutai
+permission is granted, free of charge to use project with rights to use, modiy, distribute and even publish.
+It shall also be note that in no event will the author be liable for any damage, claim or any other liabilty.
