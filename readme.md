@@ -20,9 +20,4 @@ PROJECT SETUP INSTRUCTIONS
 
 LINK TO GITHUB PAGES :-
 
-
-COPYRIGHTS AND LICENSE INFORMATION
-
-Copyright (c) 2021 meshack kimutai
-permission is granted, free of charge to use project with rights to use, modiy, distribute and even publish.
-It shall also be note that in no event will the author be liable for any damage, claim or any other liabilty.
+https://kimutaimeshack.github.io/FarewayStreetFood/
