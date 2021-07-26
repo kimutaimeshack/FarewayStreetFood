@@ -1,5 +1,4 @@
 body{
-  overflow: scroll;
   width: 100%;
   font-family:Poppins;
   text-color:#EAAB1B;
@@ -103,15 +102,12 @@ text-align: center;
     }
 
 footer{
-  background-color:  #C9ECB5;
+    background-color:  #C9ECB5;
+    margin: 65px;
 width: 100%;
 height: 100%;
 padding: 60PX;
-display: flex;
-justify-content: space-between;
-flex-grow: 2;
-margin-right: 10%;
-background-color: #C9ECB5
+background-color: #C9ECB5;
 }
   #tw2{
     box-sizing: border-box;
