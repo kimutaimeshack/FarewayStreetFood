@@ -37,10 +37,11 @@ padding: 20PX;
 
 
 .exploremenu{
-width: 65%;
+width: 100%;
 height: 100%;
 padding: 20PX;
 text-align: center;
+Background-Color: #e1e3e1 ;
 }
 
 #boxes{
@@ -70,7 +71,7 @@ text-align: center;
   float: left;
   height: 30 px;
   width: 30px;
-  margin: 0 0px 0 0;
+  margin: 0 20px 0 0;
   }
 
 /* hot deal styling */
@@ -80,6 +81,7 @@ text-align: center;
   height: 100%;
   padding: 60PX;
   background-color: #C9ECB5;
+
   }
 
   .second2{
@@ -106,10 +108,9 @@ text-align: center;
 footer{
     background-color:  #C9ECB5;
     margin: 65px;
-width: 100%;
-height: 100%;
-padding: 60PX;
-background-color: #C9ECB5;
+   width: 65%;
+   height: 100%;
+   padding: 60PX;
 }
   #tw2{
     box-sizing: border-box;
