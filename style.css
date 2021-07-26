@@ -78,6 +78,7 @@ text-align: center;
   width: 100%;
   height: 100%;
   padding: 60PX;
+  background-color: #C9ECB5;
   }
 
   .second2{
@@ -94,6 +95,7 @@ text-align: center;
     margin: 0 10px 0 0;
     }
     .contactus{
+      background-color:  #FFD77C;
     width: 100%;
     height: 100%;
     padding: 60PX;
@@ -101,6 +103,7 @@ text-align: center;
     }
 
 footer{
+  background-color:  #C9ECB5;
 width: 100%;
 height: 100%;
 padding: 60PX;
