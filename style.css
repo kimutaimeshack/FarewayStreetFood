@@ -83,7 +83,7 @@ left: -50PX;
 
   }
   #too{
-    position: fixed;
+    position: absolute;
     margin-top: 17px;
     display: inline;
     justify-content: space-between;
