@@ -83,10 +83,10 @@ left: -50PX;
 
   }
   #too{
-    position: absolute;
-    margin-top: 17px;
-    display: inline;
-    justify-content: space-between;
+    position: fixed;
+    margin-top: -1px;
+    margin-left: 74px;
+
   }
 
 .ho1 p{
