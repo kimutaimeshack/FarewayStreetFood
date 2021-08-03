@@ -82,6 +82,12 @@ left: -50PX;
      float: left;
 
   }
+  #too{
+    position: fixed;
+    margin-top: 17px;
+    display: inline;
+    justify-content: space-between;
+  }
 
 .ho1 p{
   margin-left: auto;
