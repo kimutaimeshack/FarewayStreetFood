@@ -83,7 +83,7 @@ left: -50PX;
 
   }
   #too{
-    position: fixed;
+    position: absolute;
     margin-top: -1px;
     margin-left: 74px;
 
